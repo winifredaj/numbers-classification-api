@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-
-# Number Classification API
+### Number Classification API
 
 An API that provides interesting mathematical properties and a fun fact about a given number.
 
