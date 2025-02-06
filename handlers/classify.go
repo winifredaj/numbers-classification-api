@@ -33,7 +33,7 @@ func ClassifyNumberHandler(w http.ResponseWriter, r *http.Request){
 
   if err != nil{
 		// If conversion fails, respond with a 400 Bad Request error
-		http.Error(w,fmt.Sprintf(`{"number": "%s","error":true}`,numberStr), http.StatusBadRequest)
+		http.Error(w,fmt.Sprintf(`{"number": "%s","error": Not a number}`,numberStr), http.StatusBadRequest)
 		return
 	}
 
