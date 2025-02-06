@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Number Classification API
 
 An API that provides interesting mathematical properties and a fun fact about a given number.
@@ -100,3 +101,6 @@ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 This documentation provides an overview of the project, its functionality, and clear instructions for usage, making it easier for developers and users to understand and contribute.
+=======
+# Numbers-classification-API
+>>>>>>> 294204c5acf1812e867f54972fe2bec4fc876263
